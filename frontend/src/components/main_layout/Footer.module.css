@@ -1,0 +1,12 @@
+.footerbottom {
+    font-size: 0.75rem;
+    padding: 5px;
+    background: #111;
+    height: auto;
+    color: #fff;
+    margin: 0;
+    bottom: 0;
+    right: 0; 
+    left: 0;
+    position: fixed
+}
